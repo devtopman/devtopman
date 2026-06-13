@@ -64,7 +64,7 @@ I'm a **Senior Mobile Developer** with 8+ years of experience crafting pixel-per
 
 ---
 
-## 🏛️ Architecture Expertise.
+## 🏛️ Architecture Expertise
 
 ```
 iOS                           Android                       Cross-Platform
