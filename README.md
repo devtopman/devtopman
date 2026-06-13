@@ -19,7 +19,7 @@
 
 ---
 
-## 👋 About Me
+## 👋 About Me.
 
 I'm a **Senior Mobile Developer** with 8+ years of experience crafting pixel-perfect, high-performance mobile applications across all major platforms. I believe great apps are built at the intersection of clean architecture, delightful UX, and bulletproof engineering.
 
