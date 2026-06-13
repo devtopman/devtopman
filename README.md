@@ -31,7 +31,7 @@ I'm a **Senior Mobile Developer** with 8+ years of experience crafting pixel-per
 
 ---
 
-## 🛠️ Tech Stack.
+## 🛠️ Tech Stack
 
 <div align="center">
 
