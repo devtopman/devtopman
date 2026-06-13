@@ -78,7 +78,7 @@ iOS                           Android                       Cross-Platform
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats.
 
 <div align="center">
 
