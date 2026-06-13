@@ -95,7 +95,7 @@ iOS                           Android                       Cross-Platform
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured Projects.
 
 <div align="center">
 
