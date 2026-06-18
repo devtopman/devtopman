@@ -95,20 +95,7 @@ iOS                           Android                       Cross-Platform
 
 ---
 
-## 🚀 Featured Projects
 
-<div align="center">
-
-| Project | Platform | Description | Stars |
-|---------|----------|-------------|-------|
-| [**AppName**](https://github.com/yourusername/project1) | iOS · Swift | A beautifully crafted [description]. Clean Architecture + TCA. | ⭐ |
-| [**AppName**](https://github.com/yourusername/project2) | Android · Kotlin | [Description]. MVVM, Jetpack Compose, offline-first. | ⭐ |
-| [**AppName**](https://github.com/yourusername/project3) | Flutter | [Description]. Cross-platform with shared BLoC logic. | ⭐ |
-| [**AppName**](https://github.com/yourusername/project4) | React Native | [Description]. TypeScript, Redux Toolkit, CI/CD pipeline. | ⭐ |
-
-</div>
-
----
 
 ## ✍️ Latest Writing
 
