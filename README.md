@@ -100,10 +100,10 @@ iOS                           Android                       Cross-Platform
 ## ✍️ Latest Writing
 
 <!-- BLOG-POST-LIST:START -->
-- 🍎 [Mastering Swift Concurrency: async/await in Production](https://yourblog.com)
-- 🤖 [Jetpack Compose State Management at Scale](https://yourblog.com)
-- 🐦 [Flutter vs React Native in 2025 — an honest comparison](https://yourblog.com)
-- 🧩 [Modular iOS Architecture that actually works](https://yourblog.com)
+- 🍎 [Mastering Swift Concurrency: async/await in Production](https://medium.com/@somasharma95/mastering-swift-concurrency-a-practical-guide-198e01f62d69)
+- 🤖 [Jetpack Compose State Management at Scale](https://medium.com/@androidlab/advanced-state-management-in-jetpack-compose-27a0479ccb81)
+- 🐦 [Flutter vs React Native in 2025 — an honest comparison](https://medium.com/@mobileappbyBR/react-native-vs-flutter-vs-native-ios-android-the-brutally-honest-comparison-8b211c452515)
+- 🧩 [Modular iOS Architecture that actually works](https://ravi6997.medium.com/modular-ios-apps-breaking-monoliths-how-to-structure-huge-apps-for-team-growth-69e64abbb6f9)
 <!-- BLOG-POST-LIST:END -->
 
 > *Auto-updated via [GitHub Actions blog post workflow](https://github.com/gautamkrishnar/blog-post-workflow)*
